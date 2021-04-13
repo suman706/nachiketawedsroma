@@ -680,6 +680,7 @@ button{
 .bride-photo-box {
     border: 14px solid transparent;
     overflow: hidden;
+    height: 400px;
 }
 
 .bride-groom-content p {
