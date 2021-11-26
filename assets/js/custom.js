@@ -31,8 +31,8 @@
   if(countDown.length){
     countDown.countDown({
       targetDate: {
-        'day'   : 25,
-        'month' : 4,
+        'day'   : 28,
+        'month' : 11,
         'year'  : 2021,
         'hour'  : 23,
         'min'   : 59,
