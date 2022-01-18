@@ -2,7 +2,7 @@
   "use strict"; // Start of use strict
 
 
-  /*======== Preloder ===========*/
+  /*======== Preloder ============*/
   $.fakeLoader({
     bgColor: '#fff',
     spinner:"spinner1"
